@@ -1,17 +1,18 @@
 <template>
     <div>
-        <header class="masthead" style="background-image:url('assets/img/about-bg.jpg');">
-            <div class="overlay"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-10 col-lg-8 mx-auto">
-                        <div class="site-heading">
-                            <h1>Sobre mí</h1>
+            <header class="masthead " style="background-image:url('assets/img/about-bg.jpg');">
+                <div class="overlay"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 col-lg-8 mx-auto">
+                            <div class="site-heading">
+                                <h1>Sobre mí</h1>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </header>
+            </header>  
+
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-lg-8 mx-auto">
